@@ -8,7 +8,7 @@
     "qa": "node qa/shot.mjs all"
   },
   "dependencies": {
-    "puppeteer-core": "^25.3.0",
+    "puppeteer-core": "^25.16.0",
     "three": "^0.185.1"
   }
 }
